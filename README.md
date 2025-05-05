@@ -1,8 +1,9 @@
-## 👋 Hi, I’m @Jagadeesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋Hi, I’m @Jagadeesh
+- 👀 I’m interested in  Web Development
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on Open Source Contribution and real time Projects 
+- 📫 How to reach me through <hr>EMAIL:jagadeesh0532@gmail.com
+
 
 <!---
 Jaga5342/Jaga5342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
