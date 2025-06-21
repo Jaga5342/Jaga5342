@@ -1,14 +1,18 @@
-## 👋 Hi there, I'm @Jagadeesh!
+## 👋 JAGADEESH E @Jagadeesh!
 
-I'm a **passionate and curious tech enthusiast** who loves transforming ideas into functional, user-friendly applications. I actively explore modern web technologies, build real-world projects, and continuously challenge myself to grow.
+-🌐Developer| Self-Learner🚀|Open Source Contributor📈
+
+I'm a **Passionate and Curious tech enthusiast** who loves transforming ideas into functional, user-friendly applications. I actively explore modern web technologies, build real-world projects, and continuously challenge myself to grow.I involved in open source to support community and gain knowledge through contribution.Analyzing and sary focus.
 
 ---
 
 ### 👨‍💻 About Me
+-Visit my portfolio - https://jagadeeshe-portfolio.web.app/ 
 
-- 👀 I’m interested in **Web Development**  
-- 🌱 Currently learning **Data Structures & Algorithms (DSA)**  
-- 🤝 Looking to collaborate on **Open Source Contributions** and **Real-time Projects**  
+-📌I’m interested in **Web Development and AI **  
+- 📈Continuously learning new things and updating everyday with 1% ****  
+- 🤝 Looking to collaborate on **Open Source Contributions** and **Real-time Projects**  for gaining knowledge and experience
+
 - 📫 Reach me at: **jagadeesh0532@gmail.com**
 
 ---
@@ -32,13 +36,6 @@ I'm a **passionate and curious tech enthusiast** who loves transforming ideas in
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
   <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" alt="Notion"/>
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-</p>
-
----
-
-## 🧠 LeetCode Progress
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/JAGADEESHE?theme=dark&font=Noto%20Serif%20Devanagari)
 
 ---
 
