@@ -1,6 +1,6 @@
-## 👋 JAGADEESH E @Jagadeesh!
+## 👋 JAGADEESH E !
 
--🌐Developer| Self-Learner🚀|Open Source Contributor📈
+- 🌐Developer| Self-Learner🚀|Open Source Contributor📈
 
 I'm a **Passionate and Curious tech enthusiast** who loves transforming ideas into functional, user-friendly applications. I actively explore modern web technologies, build real-world projects, and continuously challenge myself to grow.I involved in open source to support community and gain knowledge through contribution.Analyzing and sary focus.
 
@@ -9,7 +9,7 @@ I'm a **Passionate and Curious tech enthusiast** who loves transforming ideas in
 ### 👨‍💻 About Me
 -Visit my portfolio - https://jagadeeshe-portfolio.web.app/ 
 
--📌I’m interested in **Web Development and AI **  
+- 📌I’m interested in **Web Development and AI **  
 - 📈Continuously learning new things and updating everyday with 1% ****  
 - 🤝 Looking to collaborate on **Open Source Contributions** and **Real-time Projects**  for gaining knowledge and experience
 
