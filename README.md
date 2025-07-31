@@ -25,7 +25,7 @@ I'm a **Passionate and Curious tech enthusiast** who loves transforming ideas in
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/>
-  <ing width="48" height="48" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
 </p>
 
 ---
