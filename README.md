@@ -1,4 +1,6 @@
 ## 👋 JAGADEESH E !
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+E.Jagadeesh;Web+Developer;Open+Source+Enthusiast;content+writer&center=true&width=400&height=60" />
+
 
 - 🌐Developer| Self-Learner🚀|Open Source Contributor📈
 
@@ -26,6 +28,10 @@ I'm a **Passionate and Curious tech enthusiast** who loves transforming ideas in
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/>
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" />
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" />
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" />
+
 </p>
 
 ---
@@ -37,6 +43,9 @@ I'm a **Passionate and Curious tech enthusiast** who loves transforming ideas in
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
   <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" alt="Notion"/>
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=Kwms9QBiZhG2&format=png&color=000000" alt="cursor"/>
+
+  
 
 ---
 
