@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+E.Jagadeesh;Web+Developer;Open+Source+Enthusiast;content+writer&center=true&width=400&height=60" />
 
 
-- 🌐Developer| Self-Learner🚀|Open Source Contributor📈
+- 🌐Developer| Self-Learner🚀|Open Source Contributor📈|Content Writer 
 
 I'm a **Passionate and Curious tech enthusiast** who loves transforming ideas into functional, user-friendly applications. I actively explore modern web technologies, build real-world projects, and continuously challenge myself to grow.I involved in open source to support community and gain knowledge through contribution.Analyzing and sary focus.
 
