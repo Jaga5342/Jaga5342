@@ -57,3 +57,10 @@ I'm a **Passionate and Curious tech enthusiast** who loves transforming ideas in
 Jaga5342/Jaga5342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaga5342&show_icons=true&locale=en&layout=compact" alt="jaga5342" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaga5342&show_icons=true&locale=en" alt="jaga5342" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaga5342&" alt="jaga5342" /></p>
